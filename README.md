@@ -5,7 +5,7 @@ A recreation of Google's search, image search, and advanced search pages. This w
 
 ---
 
-## Location
+## Live URL
 🌐 [Google](https://juicername6424.github.io/Google/)
 
 ---
