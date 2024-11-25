@@ -11,4 +11,4 @@ A recreation of Google's search, image search, and advanced search pages. This w
 ---
 
 ## License
-📝 [MIT License](https://github.com/juicername6424/Google/blob/main/LICENSE)
+📝 [MIT License](https://github.com/djoshware/Google/blob/main/LICENSE)
